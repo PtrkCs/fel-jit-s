@@ -1,0 +1,2 @@
+Forint,Dollár,Euro
+Google Chrome
